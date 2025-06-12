@@ -54,6 +54,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Tahre04/Tahre04/output/snake.svg" alt="Snake animation" />
 
 ###
